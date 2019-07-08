@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Pisco</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link href="../EstiloPlantilla.css" rel="stylesheet" type="text/css">
+<body>
+	<section id="contenedor">
+    	<header>
+        	<img src="../imagenes/semana-turistica-pisco.jpg" alt="Semana Pisco" id="logoimagen">
+            <nav>
+            	<ul id="Menú">
+                	<li><a href="../Aniversario de Pisco.html">Aniversario de Pisco</a></li>
+                	<li><a href="../Semana Turistica.html">Semana turistica</a></li>
+                    <li><a href="../platos tipicos.html">Platos tipicos</a></li>
+               	</ul>
+        	</nav>
+        </header>
+        
+        <section id="CuerpoDocumento">
+		<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+        </section>
+        
+        <footer>
+        	<h4>Todos los Derechos Reservados</h4>
+        </footer>
+	</section>
+</body>
+</html>
